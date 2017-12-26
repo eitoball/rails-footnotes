@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 3.2"
 
-  s.add_development_dependency "rspec-rails", '~> 3.3.2'
+  s.add_development_dependency "rspec-rails", '~> 3.4.0'
   s.add_development_dependency "sprockets-rails", '~> 2.0'
   s.add_development_dependency "capybara"
 
